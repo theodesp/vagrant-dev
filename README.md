@@ -7,5 +7,5 @@ Simple vagrant development environment.
 - Go
 - Python3
 
-### LICENSE
+## LICENSE
 MIT Theo Despoudis 2018
